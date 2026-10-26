@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "message": "The application is not accessible. A new version will be released soon.",
+  "collectDatabase": false,
+  "collectVersion": 1,
+  "collectFolder": ""
+}
